@@ -1,2 +1,3 @@
 # LRClassifier
-This is ML second Assignment
+This is Machine Learning second Assignment.
+Classify with logistic Regression.
